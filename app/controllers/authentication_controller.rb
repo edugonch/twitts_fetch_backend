@@ -5,6 +5,7 @@ class AuthenticationController < ApplicationController
   #
   # @body_parameter [string] email
   # @body_parameter [string] password
+  # @header_parameter [string] auth_token
   # @response_status 200
   # @response_root authenticate
   # @response_class string
