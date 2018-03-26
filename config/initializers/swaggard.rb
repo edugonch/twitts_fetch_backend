@@ -94,6 +94,6 @@ Swaggard.configure do |config|
   # See https://github.com/adrian-gomez/swaggard#caching for more info
   # config.use_cache = false
   Swaggard.configure do |config|
-    config.additional_parameters = [{ key: 'auth_token', type: 'header', value: '' }]
+    config.additional_parameters = [{ key: 'Authorization', type: 'header', value: '' }]
   end
 end
