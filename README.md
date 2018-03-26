@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Fetch data from twitter every minute and create a public api to serve them
 
 Things you may want to cover:
 
@@ -24,6 +22,3 @@ Things you may want to cover:
 
 * ...
 =======
-# twitts_fetch_backend
-Fetch data from twitter every minute and create a public api to serve them
->>>>>>> 281c9c14ea6b1a1bb3dee47df065640a280eaef9
