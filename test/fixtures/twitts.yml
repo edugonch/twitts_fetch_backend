@@ -1,0 +1,30 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+# This model initially had no columns defined. If you add columns to the
+# model remove the '{}' from the fixture names and add the columns immediately
+# below each fixture, per the syntax in the comments below
+#
+one: {
+  twitter_id: 977915812936810496,
+  text: "RT @randaaimour: Cuba’s healthcare system is the closest to perfect I’ve ever seen.",
+  hashtag: "healthcare",
+  lang: "en",
+  url: "https://twitter.com/Salcazul/status/977915812936810496",
+  user_id: 898685525833515008,
+  user_name: "Salvador ☭",
+  profile_image_url: "http://pbs.twimg.com/profile_images/921408655274270720/DHeAVquk_normal.jpg",
+}
+# column: value
+#
+two: {
+  id: 2,
+  twitter_id: 977915807111045121,
+  text: "The moment this physician realized she hated the pain scale #kevinmd #healthcare https://t.co/7l7IDpFTfT",
+  hashtag: "healthcare",
+  lang: "en",
+  url: "https://twitter.com/surgeonwriter/status/977915807111045121",
+  user_id: 17014498,
+  user_name: "ACX Audiobook Narrator!",
+  profile_image_url: "http://pbs.twimg.com/profile_images/910625828093935617/u0CYCzEa_normal.jpg",
+}
+# column: value
