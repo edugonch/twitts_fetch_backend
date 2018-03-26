@@ -1,8 +1,5 @@
-# README
+# Twitter fetch backend
 
-# Project Title
-
-Twitter fetch backend
 
 ### Prerequisites
 
