@@ -1,5 +1,5 @@
 run_fetch_last_twitts:
-  cron: '* * * * *'
+  cron: '* */1 * * *'
   class: FetchTwittsWorker
   queue: default
   description: 'This Job will fetch the last 10 twitts'
