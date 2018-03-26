@@ -3,6 +3,8 @@ class AuthenticationController < ApplicationController
 
   # Generate Authentication Token
   #
+  # @body_parameter [string] email
+  # @body_parameter [string] password
   # @response_status 200
   # @response_root authenticate
   # @response_class string

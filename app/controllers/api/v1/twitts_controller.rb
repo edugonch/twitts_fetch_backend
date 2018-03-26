@@ -3,7 +3,6 @@ module Api::V1
             before_action :get_twitts, only: [:index]
             # Returns the list of last 10 twitts
             #
-            # @query_parameter [string] hashtags
             # @response_status 200
             # @response_root twitts
             # @response_class Array<TwittSerializer>
