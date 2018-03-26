@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# twitts_fetch_backend
+Fetch data from twitter every minute and create a public api to serve them
+>>>>>>> 281c9c14ea6b1a1bb3dee47df065640a280eaef9
